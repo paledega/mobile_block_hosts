@@ -2,7 +2,7 @@
 
 ## easy usage
 
-in your mobile phone:
+in your jailbroken or rooted mobile phone:
 
     su -
     cd /etc
@@ -13,7 +13,9 @@ in your mobile phone:
     
 ## update hosts by yourself
 
-   on your linux or osx:
+  require: wget , unzip
+
+  on your linux or osx:
 
     git clone https://github.com/tknr/mobile_block_hosts.git
     cd mobile_block_hosts
