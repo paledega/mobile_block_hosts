@@ -15,9 +15,9 @@ in your mobile phone:
 
    on your linux or osx:
 
-   git clone https://github.com/tknr/mobile_block_hosts.git
-   cd mobile_block_hosts
-   bash update.sh
+    git clone https://github.com/tknr/mobile_block_hosts.git
+    cd mobile_block_hosts
+    bash update.sh
    
 and you will get updated hosts file.
 
