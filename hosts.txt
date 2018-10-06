@@ -2465,9 +2465,7 @@ fe80::1%lo0 localhost
 ::1 big-mbsp-engine.mbsp.jp
 ::1 big-mbsp.mbsp.jp
 ::1 sn002.trax-ad.jp
-::1 sn003.trax-ad.jp
-
-# hosts2ch - Japanese mobile ad servers hosts file.
+::1 sn003.trax-ad.jp# hosts2ch - Japanese mobile ad servers hosts file.
 # This file is public domain, of course.
 #
 # file size: 34 kB
