@@ -9,7 +9,6 @@ in your jailbroken or rooted mobile phone:
     mv hosts hosts.org
     wget --no-check-certificate https://raw.githubusercontent.com/tknr/mobile_block_hosts/master/hosts
     chmod 644 hosts
-    reboot
     
 ## update hosts by yourself
 
